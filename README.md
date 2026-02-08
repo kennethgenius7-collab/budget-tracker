@@ -1,6 +1,9 @@
 # Personal Budget Tracker
 
-A simple, elegant personal budget tracker that runs entirely in your browser with local storage.
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://kennethgenius7-collab.github.io/budget-tracker/)
+[![GitHub Pages](https://img.shields.io/badge/hosted-github%20pages-blue)](https://pages.github.com)
+
+A simple, elegant personal budget tracker that runs entirely in your browser.
 
 ## Features
 - Track income and expenses
